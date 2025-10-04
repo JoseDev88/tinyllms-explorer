@@ -1,0 +1,4934 @@
+[
+  {
+    "name": "Llama-3.2-1B-Instruct",
+    "display_name": "Llama 3.2 1B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
+    "license": "llama3.2",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:05Z",
+      "org": "meta-llama"
+    }
+  },
+  {
+    "name": "Llama-3.2-1B",
+    "display_name": "Llama 3.2 1B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/meta-llama/Llama-3.2-1B",
+    "license": "llama3.2",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:05Z",
+      "org": "meta-llama"
+    }
+  },
+  {
+    "name": "Llama-3.2-3B-Instruct",
+    "display_name": "Llama 3.2 3B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
+    "license": "llama3.2",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:05Z",
+      "org": "meta-llama"
+    }
+  },
+  {
+    "name": "Llama-3.2-3B",
+    "display_name": "Llama 3.2 3B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/meta-llama/Llama-3.2-3B",
+    "license": "llama3.2",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:05Z",
+      "org": "meta-llama"
+    }
+  },
+  {
+    "name": "Llama-Guard-3-1B",
+    "display_name": "Llama Guard 3 1B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/meta-llama/Llama-Guard-3-1B",
+    "license": "llama3.2",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:05Z",
+      "org": "meta-llama"
+    }
+  },
+  {
+    "name": "Llama-3.2-1B-Instruct-QLORA_INT4_EO8",
+    "display_name": "Llama 3.2 1B Instruct QLORA INT4 EO8",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct-QLORA_INT4_EO8",
+    "license": "llama3.2",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:05Z",
+      "org": "meta-llama"
+    }
+  },
+  {
+    "name": "Llama-3.2-1B-Instruct-SpinQuant_INT4_EO8",
+    "display_name": "Llama 3.2 1B Instruct SpinQuant INT4 EO8",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct-SpinQuant_INT4_EO8",
+    "license": "llama3.2",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:05Z",
+      "org": "meta-llama"
+    }
+  },
+  {
+    "name": "Llama-3.2-3B-Instruct-QLORA_INT4_EO8",
+    "display_name": "Llama 3.2 3B Instruct QLORA INT4 EO8",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct-QLORA_INT4_EO8",
+    "license": "llama3.2",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:06Z",
+      "org": "meta-llama"
+    }
+  },
+  {
+    "name": "Llama-3.2-3B-Instruct-SpinQuant_INT4_EO8",
+    "display_name": "Llama 3.2 3B Instruct SpinQuant INT4 EO8",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct-SpinQuant_INT4_EO8",
+    "license": "llama3.2",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:06Z",
+      "org": "meta-llama"
+    }
+  },
+  {
+    "name": "Llama-Guard-3-1B-INT4",
+    "display_name": "Llama Guard 3 1B INT4",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/meta-llama/Llama-Guard-3-1B-INT4",
+    "license": "llama3.2",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:06Z",
+      "org": "meta-llama"
+    }
+  },
+  {
+    "name": "gemma-3-1b-it",
+    "display_name": "gemma 3 1b it",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-3-1b-it",
+    "license": "gemma",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:06Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2-2b-it",
+    "display_name": "gemma 2 2b it",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2-2b-it",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:06Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2-2b",
+    "display_name": "gemma 2 2b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2-2b",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:06Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-1.1-2b-it",
+    "display_name": "gemma 1.1 2b it",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-1.1-2b-it",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:06Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b-it",
+    "display_name": "gemma 2b it",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b-it",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": "gguf",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:06Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b",
+    "display_name": "gemma 2b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": "gguf",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:06Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-3-270m",
+    "display_name": "gemma 3 270m",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-3-270m",
+    "license": "gemma",
+    "params_b": 0.27,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:07Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-3-270m-it",
+    "display_name": "gemma 3 270m it",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-3-270m-it",
+    "license": "gemma",
+    "params_b": 0.27,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:07Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-3-1b-pt",
+    "display_name": "gemma 3 1b pt",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-3-1b-pt",
+    "license": "gemma",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:07Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-3n-E4B-it-litert-lm",
+    "display_name": "gemma 3n E4B it litert lm",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-3n-E4B-it-litert-lm",
+    "license": "gemma",
+    "params_b": 4.0,
+    "quantizations": "int4",
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:07Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-3n-E2B-it-litert-lm",
+    "display_name": "gemma 3n E2B it litert lm",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-3n-E2B-it-litert-lm",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": "int4",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:07Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "codegemma-2b",
+    "display_name": "codegemma 2b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/codegemma-2b",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:07Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2-2b-jpn-it",
+    "display_name": "gemma 2 2b jpn it",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2-2b-jpn-it",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:07Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "vaultgemma-1b",
+    "display_name": "vaultgemma 1b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/vaultgemma-1b",
+    "license": "gemma",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:07Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "shieldgemma-2b",
+    "display_name": "shieldgemma 2b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/shieldgemma-2b",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:07Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-3-1b-it-qat-int4-unquantized",
+    "display_name": "gemma 3 1b it qat int4 unquantized",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-3-1b-it-qat-int4-unquantized",
+    "license": "gemma",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:08Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "recurrentgemma-2b-it",
+    "display_name": "recurrentgemma 2b it",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/recurrentgemma-2b-it",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:08Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-3-1b-it-qat-q4_0-gguf",
+    "display_name": "gemma 3 1b it qat q4 0 gguf",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-3-1b-it-qat-q4_0-gguf",
+    "license": "gemma",
+    "params_b": 1.0,
+    "quantizations": "gguf",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:08Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "txgemma-2b-predict",
+    "display_name": "txgemma 2b predict",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/txgemma-2b-predict",
+    "license": "other",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:08Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-3-1b-it-qat-q4_0-unquantized",
+    "display_name": "gemma 3 1b it qat q4 0 unquantized",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-3-1b-it-qat-q4_0-unquantized",
+    "license": "gemma",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:08Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "codegemma-1.1-2b",
+    "display_name": "codegemma 1.1 2b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/codegemma-1.1-2b",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:08Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "recurrentgemma-2b",
+    "display_name": "recurrentgemma 2b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/recurrentgemma-2b",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:09Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-3-270m-it-qat-q4_0-unquantized",
+    "display_name": "gemma 3 270m it qat q4 0 unquantized",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-3-270m-it-qat-q4_0-unquantized",
+    "license": "gemma",
+    "params_b": 0.27,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:09Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-3-1b-pt-qat-q4_0-gguf",
+    "display_name": "gemma 3 1b pt qat q4 0 gguf",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-3-1b-pt-qat-q4_0-gguf",
+    "license": "gemma",
+    "params_b": 1.0,
+    "quantizations": "gguf",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:09Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-3-270m-qat-q4_0-unquantized",
+    "display_name": "gemma 3 270m qat q4 0 unquantized",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-3-270m-qat-q4_0-unquantized",
+    "license": "gemma",
+    "params_b": 0.27,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:09Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b-aps-it",
+    "display_name": "gemma 2b aps it",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b-aps-it",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:09Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b-it-pytorch",
+    "display_name": "gemma 2b it pytorch",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b-it-pytorch",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:09Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "codegemma-2b-GGUF",
+    "display_name": "codegemma 2b GGUF",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/codegemma-2b-GGUF",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": "gguf",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:09Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b-AWQ",
+    "display_name": "gemma 2b AWQ",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b-AWQ",
+    "license": "other",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:09Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b-pytorch",
+    "display_name": "gemma 2b pytorch",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b-pytorch",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:10Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-1.1-2b-it-pytorch",
+    "display_name": "gemma 1.1 2b it pytorch",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-1.1-2b-it-pytorch",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:10Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b-keras",
+    "display_name": "gemma 2b keras",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b-keras",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:10Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "codegemma-2b-keras",
+    "display_name": "codegemma 2b keras",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/codegemma-2b-keras",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:10Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b-it-keras",
+    "display_name": "gemma 2b it keras",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b-it-keras",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:10Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-1.1-2b-it-keras",
+    "display_name": "gemma 1.1 2b it keras",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-1.1-2b-it-keras",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:10Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "codegemma-1.1-2b-keras",
+    "display_name": "codegemma 1.1 2b keras",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/codegemma-1.1-2b-keras",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:10Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b-it-sfp-cpp",
+    "display_name": "gemma 2b it sfp cpp",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b-it-sfp-cpp",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:10Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "codegemma-1.1-2b-GGUF",
+    "display_name": "codegemma 1.1 2b GGUF",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/codegemma-1.1-2b-GGUF",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": "gguf",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:10Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b-cpp",
+    "display_name": "gemma 2b cpp",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b-cpp",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:11Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b-it-cpp",
+    "display_name": "gemma 2b it cpp",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b-it-cpp",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:11Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "recurrentgemma-2b-it-flax",
+    "display_name": "recurrentgemma 2b it flax",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/recurrentgemma-2b-it-flax",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:11Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b-sfp-cpp",
+    "display_name": "gemma 2b sfp cpp",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b-sfp-cpp",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:11Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b-flax",
+    "display_name": "gemma 2b flax",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b-flax",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:11Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b-it-flax",
+    "display_name": "gemma 2b it flax",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b-it-flax",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:11Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "codegemma-2b-pytorch",
+    "display_name": "codegemma 2b pytorch",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/codegemma-2b-pytorch",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:11Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "recurrentgemma-2b-flax",
+    "display_name": "recurrentgemma 2b flax",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/recurrentgemma-2b-flax",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:11Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2b-it-tflite",
+    "display_name": "gemma 2b it tflite",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2b-it-tflite",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": "int4,int8",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:11Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-1.1-2b-it-tflite",
+    "display_name": "gemma 1.1 2b it tflite",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-1.1-2b-it-tflite",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": "int4,int8",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:11Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "codegemma-1.1-2b-pytorch",
+    "display_name": "codegemma 1.1 2b pytorch",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/codegemma-1.1-2b-pytorch",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:12Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2-2b-pytorch",
+    "display_name": "gemma 2 2b pytorch",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2-2b-pytorch",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:12Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2-2b-it-pytorch",
+    "display_name": "gemma 2 2b it pytorch",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2-2b-it-pytorch",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:12Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2-2b-jpn-it-pytorch",
+    "display_name": "gemma 2 2b jpn it pytorch",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2-2b-jpn-it-pytorch",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:12Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "gemma-2-2b-jpn-it-flax",
+    "display_name": "gemma 2 2b jpn it flax",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/google/gemma-2-2b-jpn-it-flax",
+    "license": "gemma",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:12Z",
+      "org": "google"
+    }
+  },
+  {
+    "name": "VibeVoice-1.5B",
+    "display_name": "VibeVoice 1.5B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/microsoft/VibeVoice-1.5B",
+    "license": "mit",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:13Z",
+      "org": "microsoft"
+    }
+  },
+  {
+    "name": "bitnet-b1.58-2B-4T",
+    "display_name": "bitnet b1.58 2B 4T",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/microsoft/bitnet-b1.58-2B-4T",
+    "license": "mit",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:15Z",
+      "org": "microsoft"
+    }
+  },
+  {
+    "name": "bitnet-b1.58-2B-4T-gguf",
+    "display_name": "bitnet b1.58 2B 4T gguf",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/microsoft/bitnet-b1.58-2B-4T-gguf",
+    "license": "mit",
+    "params_b": 2.0,
+    "quantizations": "gguf",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:15Z",
+      "org": "microsoft"
+    }
+  },
+  {
+    "name": "bitnet-b1.58-2B-4T-bf16",
+    "display_name": "bitnet b1.58 2B 4T bf16",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/microsoft/bitnet-b1.58-2B-4T-bf16",
+    "license": "mit",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:16Z",
+      "org": "microsoft"
+    }
+  },
+  {
+    "name": "rho-math-1b-v0.1",
+    "display_name": "rho math 1b v0.1",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/microsoft/rho-math-1b-v0.1",
+    "license": "mit",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:17Z",
+      "org": "microsoft"
+    }
+  },
+  {
+    "name": "rho-math-1b-interpreter-v0.1",
+    "display_name": "rho math 1b interpreter v0.1",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/microsoft/rho-math-1b-interpreter-v0.1",
+    "license": "mit",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:17Z",
+      "org": "microsoft"
+    }
+  },
+  {
+    "name": "Qwen2.5-3B-Instruct",
+    "display_name": "Qwen2.5 3B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:19Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-0.6B",
+    "display_name": "Qwen3 0.6B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+    "license": "apache-2.0",
+    "params_b": 0.6,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:20Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-1.5B-Instruct",
+    "display_name": "Qwen2.5 1.5B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
+    "license": "apache-2.0",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:20Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-Embedding-0.6B",
+    "display_name": "Qwen3 Embedding 0.6B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B",
+    "license": "apache-2.0",
+    "params_b": 0.6,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:20Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-4B-Instruct-2507",
+    "display_name": "Qwen3 4B Instruct 2507",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+    "license": "apache-2.0",
+    "params_b": 4.0,
+    "quantizations": null,
+    "memory_min_gb": 9.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:20Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-0.5B-Instruct",
+    "display_name": "Qwen2.5 0.5B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct",
+    "license": "apache-2.0",
+    "params_b": 0.5,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:20Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-4B",
+    "display_name": "Qwen3 4B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-4B",
+    "license": "apache-2.0",
+    "params_b": 4.0,
+    "quantizations": null,
+    "memory_min_gb": 9.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:20Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-0.5B",
+    "display_name": "Qwen2.5 0.5B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-0.5B",
+    "license": "apache-2.0",
+    "params_b": 0.5,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:20Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-1.7B",
+    "display_name": "Qwen3 1.7B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-1.7B",
+    "license": "apache-2.0",
+    "params_b": 1.7,
+    "quantizations": null,
+    "memory_min_gb": 4.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:20Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-Reranker-0.6B",
+    "display_name": "Qwen3 Reranker 0.6B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-Reranker-0.6B",
+    "license": "apache-2.0",
+    "params_b": 0.6,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:20Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2-1.5B-Instruct",
+    "display_name": "Qwen2 1.5B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2-1.5B-Instruct",
+    "license": "apache-2.0",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:21Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-Embedding-4B",
+    "display_name": "Qwen3 Embedding 4B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-Embedding-4B",
+    "license": "apache-2.0",
+    "params_b": 4.0,
+    "quantizations": null,
+    "memory_min_gb": 9.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:21Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-4B-Thinking-2507",
+    "display_name": "Qwen3 4B Thinking 2507",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507",
+    "license": "apache-2.0",
+    "params_b": 4.0,
+    "quantizations": null,
+    "memory_min_gb": 9.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:21Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-4B-Base",
+    "display_name": "Qwen3 4B Base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-4B-Base",
+    "license": "apache-2.0",
+    "params_b": 4.0,
+    "quantizations": null,
+    "memory_min_gb": 9.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:21Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-3B",
+    "display_name": "Qwen2.5 3B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-3B",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:21Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2-0.5B",
+    "display_name": "Qwen2 0.5B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2-0.5B",
+    "license": "apache-2.0",
+    "params_b": 0.5,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:21Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-Coder-1.5B",
+    "display_name": "Qwen2.5 Coder 1.5B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B",
+    "license": "apache-2.0",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:21Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-1.7B-Base",
+    "display_name": "Qwen3 1.7B Base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-1.7B-Base",
+    "license": "apache-2.0",
+    "params_b": 1.7,
+    "quantizations": null,
+    "memory_min_gb": 4.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:21Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2-0.5B-Instruct",
+    "display_name": "Qwen2 0.5B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2-0.5B-Instruct",
+    "license": "apache-2.0",
+    "params_b": 0.5,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:21Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-1.5B",
+    "display_name": "Qwen2.5 1.5B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-1.5B",
+    "license": "apache-2.0",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:22Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-4B-Thinking-2507-FP8",
+    "display_name": "Qwen3 4B Thinking 2507 FP8",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507-FP8",
+    "license": "apache-2.0",
+    "params_b": 4.0,
+    "quantizations": null,
+    "memory_min_gb": 9.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:22Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-Math-1.5B",
+    "display_name": "Qwen2.5 Math 1.5B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-Math-1.5B",
+    "license": "apache-2.0",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:22Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-Coder-1.5B-Instruct",
+    "display_name": "Qwen2.5 Coder 1.5B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct",
+    "license": "apache-2.0",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:22Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-0.6B-Base",
+    "display_name": "Qwen3 0.6B Base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-0.6B-Base",
+    "license": "apache-2.0",
+    "params_b": 0.6,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:22Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-4B-AWQ",
+    "display_name": "Qwen3 4B AWQ",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-4B-AWQ",
+    "license": "apache-2.0",
+    "params_b": 4.0,
+    "quantizations": null,
+    "memory_min_gb": 9.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:22Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2-1.5B",
+    "display_name": "Qwen2 1.5B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2-1.5B",
+    "license": "apache-2.0",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:22Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-4B-Instruct-2507-FP8",
+    "display_name": "Qwen3 4B Instruct 2507 FP8",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507-FP8",
+    "license": "apache-2.0",
+    "params_b": 4.0,
+    "quantizations": null,
+    "memory_min_gb": 9.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:23Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-1.5B-Instruct-AWQ",
+    "display_name": "Qwen2.5 1.5B Instruct AWQ",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-AWQ",
+    "license": "apache-2.0",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:23Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-3B-Instruct-AWQ",
+    "display_name": "Qwen2.5 3B Instruct AWQ",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-AWQ",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:23Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-Reranker-4B",
+    "display_name": "Qwen3 Reranker 4B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-Reranker-4B",
+    "license": "apache-2.0",
+    "params_b": 4.0,
+    "quantizations": null,
+    "memory_min_gb": 9.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:23Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen1.5-0.5B-Chat",
+    "display_name": "Qwen1.5 0.5B Chat",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat",
+    "license": "other",
+    "params_b": 0.5,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:23Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-1.5B-Instruct-GGUF",
+    "display_name": "Qwen2.5 1.5B Instruct GGUF",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+    "license": "apache-2.0",
+    "params_b": 1.5,
+    "quantizations": "fp16,gguf,q2_k,q3_k_m,q4_k_m,q5_k_m,q6_k",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:23Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen1.5-MoE-A2.7B",
+    "display_name": "Qwen1.5 MoE A2.7B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B",
+    "license": "other",
+    "params_b": 2.7,
+    "quantizations": null,
+    "memory_min_gb": 6.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:23Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-4B-MLX-4bit",
+    "display_name": "Qwen3 4B MLX 4bit",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-4B-MLX-4bit",
+    "license": "apache-2.0",
+    "params_b": 4.0,
+    "quantizations": null,
+    "memory_min_gb": 9.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:23Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen1.5-1.8B-Chat",
+    "display_name": "Qwen1.5 1.8B Chat",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat",
+    "license": "other",
+    "params_b": 1.8,
+    "quantizations": null,
+    "memory_min_gb": 4.2,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:23Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-Math-1.5B-Instruct",
+    "display_name": "Qwen2.5 Math 1.5B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-Math-1.5B-Instruct",
+    "license": "apache-2.0",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:24Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen1.5-0.5B",
+    "display_name": "Qwen1.5 0.5B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen1.5-0.5B",
+    "license": "other",
+    "params_b": 0.5,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:24Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-3B-Instruct-GGUF",
+    "display_name": "Qwen2.5 3B Instruct GGUF",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": "fp16,gguf,q2_k,q3_k_m,q4_k_m,q5_k_m,q6_k",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:24Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen3-0.6B-FP8",
+    "display_name": "Qwen3 0.6B FP8",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen3-0.6B-FP8",
+    "license": "apache-2.0",
+    "params_b": 0.6,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:24Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-0.5B-Instruct-GGUF",
+    "display_name": "Qwen2.5 0.5B Instruct GGUF",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF",
+    "license": "apache-2.0",
+    "params_b": 0.5,
+    "quantizations": "fp16,gguf,q2_k,q3_k_m,q4_k_m,q5_k_m,q6_k",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:24Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-Coder-3B-Instruct",
+    "display_name": "Qwen2.5 Coder 3B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:24Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen1.5-MoE-A2.7B-Chat",
+    "display_name": "Qwen1.5 MoE A2.7B Chat",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B-Chat",
+    "license": "other",
+    "params_b": 2.7,
+    "quantizations": null,
+    "memory_min_gb": 6.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:24Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-Coder-3B",
+    "display_name": "Qwen2.5 Coder 3B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:24Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-Coder-0.5B",
+    "display_name": "Qwen2.5 Coder 0.5B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B",
+    "license": "apache-2.0",
+    "params_b": 0.5,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:24Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "Qwen2.5-Coder-0.5B-Instruct",
+    "display_name": "Qwen2.5 Coder 0.5B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct",
+    "license": "apache-2.0",
+    "params_b": 0.5,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:25Z",
+      "org": "Qwen"
+    }
+  },
+  {
+    "name": "granite-3.3-2b-instruct",
+    "display_name": "granite 3.3 2b instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.3-2b-instruct",
+    "license": "apache-2.0",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:25Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-docling-258M",
+    "display_name": "granite docling 258M",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-docling-258M",
+    "license": "apache-2.0",
+    "params_b": 0.258,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:25Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.2-2b-instruct",
+    "display_name": "granite 3.2 2b instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.2-2b-instruct",
+    "license": "apache-2.0",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:25Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.3-2b-base",
+    "display_name": "granite 3.3 2b base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.3-2b-base",
+    "license": "apache-2.0",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:25Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.1-3b-a800m-instruct",
+    "display_name": "granite 3.1 3b a800m instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.1-3b-a800m-instruct",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:25Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.1-2b-instruct",
+    "display_name": "granite 3.1 2b instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.1-2b-instruct",
+    "license": "apache-2.0",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:25Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.1-2b-base",
+    "display_name": "granite 3.1 2b base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.1-2b-base",
+    "license": "apache-2.0",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:25Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.1-1b-a400m-instruct",
+    "display_name": "granite 3.1 1b a400m instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.1-1b-a400m-instruct",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:26Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.0-2b-instruct",
+    "display_name": "granite 3.0 2b instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.0-2b-instruct",
+    "license": "apache-2.0",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:26Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.1-1b-a400m-base",
+    "display_name": "granite 3.1 1b a400m base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.1-1b-a400m-base",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:26Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.1-3b-a800m-base",
+    "display_name": "granite 3.1 3b a800m base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.1-3b-a800m-base",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:26Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.0-3b-a800m-instruct",
+    "display_name": "granite 3.0 3b a800m instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.0-3b-a800m-instruct",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:26Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.0-1b-a400m-base",
+    "display_name": "granite 3.0 1b a400m base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.0-1b-a400m-base",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:27Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.0-2b-base",
+    "display_name": "granite 3.0 2b base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.0-2b-base",
+    "license": "apache-2.0",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:27Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.0-3b-a800m-base",
+    "display_name": "granite 3.0 3b a800m base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.0-3b-a800m-base",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:27Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.3-2b-instruct-GGUF",
+    "display_name": "granite 3.3 2b instruct GGUF",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.3-2b-instruct-GGUF",
+    "license": "apache-2.0",
+    "params_b": 2.0,
+    "quantizations": "gguf,q2_k,q3_k_l,q3_k_m,q3_k_s,q4_k_m,q4_k_s,q5_k_m,q5_k_s,q6_k",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:27Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-guardian-3.1-2b",
+    "display_name": "granite guardian 3.1 2b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-guardian-3.1-2b",
+    "license": "apache-2.0",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:27Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.0-1b-a400m-instruct",
+    "display_name": "granite 3.0 1b a400m instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.0-1b-a400m-instruct",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:27Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3b-code-instruct-128k",
+    "display_name": "granite 3b code instruct 128k",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3b-code-instruct-128k",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:27Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3b-code-instruct-2k",
+    "display_name": "granite 3b code instruct 2k",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3b-code-instruct-2k",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:28Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-guardian-3.2-3b-a800m",
+    "display_name": "granite guardian 3.2 3b a800m",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-guardian-3.2-3b-a800m",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:28Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3b-code-base-2k",
+    "display_name": "granite 3b code base 2k",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3b-code-base-2k",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:28Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-guardian-3.0-2b",
+    "display_name": "granite guardian 3.0 2b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-guardian-3.0-2b",
+    "license": "apache-2.0",
+    "params_b": 2.0,
+    "quantizations": null,
+    "memory_min_gb": 4.7,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:28Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3.3-2b-base-GGUF",
+    "display_name": "granite 3.3 2b base GGUF",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3.3-2b-base-GGUF",
+    "license": "apache-2.0",
+    "params_b": 2.0,
+    "quantizations": "gguf,q2_k,q3_k_l,q3_k_m,q3_k_s,q4_k_m,q4_k_s,q5_k_m,q5_k_s,q6_k",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:28Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3b-code-instruct-2k-GGUF",
+    "display_name": "granite 3b code instruct 2k GGUF",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3b-code-instruct-2k-GGUF",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": "gguf,q4_k_m",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:29Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3b-code-base-128k",
+    "display_name": "granite 3b code base 128k",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3b-code-base-128k",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:29Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "granite-3b-code-base-2k-GGUF",
+    "display_name": "granite 3b code base 2k GGUF",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/ibm-granite/granite-3b-code-base-2k-GGUF",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": "gguf,q4_k_m",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:29Z",
+      "org": "ibm-granite"
+    }
+  },
+  {
+    "name": "OpenELM-1_1B-Instruct",
+    "display_name": "OpenELM 1 1B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/apple/OpenELM-1_1B-Instruct",
+    "license": "apple-amlr",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:30Z",
+      "org": "apple"
+    }
+  },
+  {
+    "name": "FastVLM-0.5B",
+    "display_name": "FastVLM 0.5B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/apple/FastVLM-0.5B",
+    "license": "apple-amlr",
+    "params_b": 0.5,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:30Z",
+      "org": "apple"
+    }
+  },
+  {
+    "name": "FastVLM-1.5B",
+    "display_name": "FastVLM 1.5B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/apple/FastVLM-1.5B",
+    "license": "apple-amlr",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:30Z",
+      "org": "apple"
+    }
+  },
+  {
+    "name": "OpenELM-3B-Instruct",
+    "display_name": "OpenELM 3B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/apple/OpenELM-3B-Instruct",
+    "license": "apple-amlr",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:31Z",
+      "org": "apple"
+    }
+  },
+  {
+    "name": "OpenELM-270M-Instruct",
+    "display_name": "OpenELM 270M Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/apple/OpenELM-270M-Instruct",
+    "license": "apple-amlr",
+    "params_b": 0.27,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:31Z",
+      "org": "apple"
+    }
+  },
+  {
+    "name": "OpenELM-450M-Instruct",
+    "display_name": "OpenELM 450M Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/apple/OpenELM-450M-Instruct",
+    "license": "apple-amlr",
+    "params_b": 0.45,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:31Z",
+      "org": "apple"
+    }
+  },
+  {
+    "name": "OpenELM-270M",
+    "display_name": "OpenELM 270M",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/apple/OpenELM-270M",
+    "license": "apple-amlr",
+    "params_b": 0.27,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:31Z",
+      "org": "apple"
+    }
+  },
+  {
+    "name": "OpenELM-450M",
+    "display_name": "OpenELM 450M",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/apple/OpenELM-450M",
+    "license": "apple-amlr",
+    "params_b": 0.45,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:31Z",
+      "org": "apple"
+    }
+  },
+  {
+    "name": "OpenELM-3B",
+    "display_name": "OpenELM 3B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/apple/OpenELM-3B",
+    "license": "apple-amlr",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:31Z",
+      "org": "apple"
+    }
+  },
+  {
+    "name": "OpenELM-1_1B",
+    "display_name": "OpenELM 1 1B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/apple/OpenELM-1_1B",
+    "license": "apple-amlr",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:31Z",
+      "org": "apple"
+    }
+  },
+  {
+    "name": "OLMo-2-0425-1B",
+    "display_name": "OLMo 2 0425 1B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/OLMo-2-0425-1B",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:32Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "OLMo-1B-0724-hf",
+    "display_name": "OLMo 1B 0724 hf",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/OLMo-1B-0724-hf",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:32Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "OLMo-1B-hf",
+    "display_name": "OLMo 1B hf",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/OLMo-1B-hf",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:32Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "OLMoE-1B-7B-0924-Instruct",
+    "display_name": "OLMoE 1B 7B 0924 Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/OLMoE-1B-7B-0924-Instruct",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:32Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "OLMoE-1B-7B-0125",
+    "display_name": "OLMoE 1B 7B 0125",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/OLMoE-1B-7B-0125",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:32Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "OLMo-2-0425-1B-Instruct",
+    "display_name": "OLMo 2 0425 1B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/OLMo-2-0425-1B-Instruct",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:32Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "OLMoE-1B-7B-0924",
+    "display_name": "OLMoE 1B 7B 0924",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/OLMoE-1B-7B-0924",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:32Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "OLMoE-1B-7B-0125-Instruct",
+    "display_name": "OLMoE 1B 7B 0125 Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/OLMoE-1B-7B-0125-Instruct",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:33Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "OLMo-1B",
+    "display_name": "OLMo 1B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/OLMo-1B",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:33Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "OLMo-2-0425-1B-SFT",
+    "display_name": "OLMo 2 0425 1B SFT",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/OLMo-2-0425-1B-SFT",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:33Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "MolmoE-1B-0924",
+    "display_name": "MolmoE 1B 0924",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/MolmoE-1B-0924",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:33Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "OLMo-2-0425-1B-DPO",
+    "display_name": "OLMo 2 0425 1B DPO",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/OLMo-2-0425-1B-DPO",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:33Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "OLMo-2-0425-1B-early-training",
+    "display_name": "OLMo 2 0425 1B early training",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/OLMo-2-0425-1B-early-training",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:33Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "OLMo-2-0425-1B-RLVR1",
+    "display_name": "OLMo 2 0425 1B RLVR1",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/OLMo-2-0425-1B-RLVR1",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:33Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "OLMoE-1B-7B-0125-SFT",
+    "display_name": "OLMoE 1B 7B 0125 SFT",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/allenai/OLMoE-1B-7B-0125-SFT",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:34Z",
+      "org": "allenai"
+    }
+  },
+  {
+    "name": "SmolLM2-135M",
+    "display_name": "SmolLM2 135M",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM2-135M",
+    "license": "apache-2.0",
+    "params_b": 0.135,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:34Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM-135M",
+    "display_name": "SmolLM 135M",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM-135M",
+    "license": "apache-2.0",
+    "params_b": 0.135,
+    "quantizations": "fp16,int8",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:34Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM2-135M-Instruct",
+    "display_name": "SmolLM2 135M Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct",
+    "license": "apache-2.0",
+    "params_b": 0.135,
+    "quantizations": "fp16,int8",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:34Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM3-3B",
+    "display_name": "SmolLM3 3B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM3-3B",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:34Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM-360M",
+    "display_name": "SmolLM 360M",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM-360M",
+    "license": "apache-2.0",
+    "params_b": 0.36,
+    "quantizations": "fp16,int8",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:34Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM2-360M-Instruct",
+    "display_name": "SmolLM2 360M Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct",
+    "license": "apache-2.0",
+    "params_b": 0.36,
+    "quantizations": "fp16,int8",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:34Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM-135M-Instruct",
+    "display_name": "SmolLM 135M Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM-135M-Instruct",
+    "license": "apache-2.0",
+    "params_b": 0.135,
+    "quantizations": "fp16,int8",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:34Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM2-1.7B-Instruct",
+    "display_name": "SmolLM2 1.7B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct",
+    "license": "apache-2.0",
+    "params_b": 1.7,
+    "quantizations": "fp16,int8",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:35Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM2-360M",
+    "display_name": "SmolLM2 360M",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM2-360M",
+    "license": "apache-2.0",
+    "params_b": 0.36,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:35Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM-360M-Instruct",
+    "display_name": "SmolLM 360M Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM-360M-Instruct",
+    "license": "apache-2.0",
+    "params_b": 0.36,
+    "quantizations": "fp16,int8",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:35Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM-1.7B",
+    "display_name": "SmolLM 1.7B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM-1.7B",
+    "license": "apache-2.0",
+    "params_b": 1.7,
+    "quantizations": "fp16,int8",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:35Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM3-3B-Base",
+    "display_name": "SmolLM3 3B Base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": "fp16,int8",
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:35Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM2-1.7B",
+    "display_name": "SmolLM2 1.7B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B",
+    "license": "apache-2.0",
+    "params_b": 1.7,
+    "quantizations": null,
+    "memory_min_gb": 4.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:35Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM-1.7B-Instruct",
+    "display_name": "SmolLM 1.7B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM-1.7B-Instruct",
+    "license": "apache-2.0",
+    "params_b": 1.7,
+    "quantizations": "fp16,int8",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:35Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM2-1.7B-Instruct-GGUF",
+    "display_name": "SmolLM2 1.7B Instruct GGUF",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct-GGUF",
+    "license": "apache-2.0",
+    "params_b": 1.7,
+    "quantizations": "gguf,q4_k_m",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:36Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM3-3B-ONNX",
+    "display_name": "SmolLM3 3B ONNX",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM3-3B-ONNX",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": "fp16,int8",
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:36Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM2-1.7B-Instruct-16k",
+    "display_name": "SmolLM2 1.7B Instruct 16k",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct-16k",
+    "license": "apache-2.0",
+    "params_b": 1.7,
+    "quantizations": null,
+    "memory_min_gb": 4.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:36Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "cosmo-1b",
+    "display_name": "cosmo 1b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/cosmo-1b",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:36Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM2-1.7B-Instruct-Q8-mlx",
+    "display_name": "SmolLM2 1.7B Instruct Q8 mlx",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct-Q8-mlx",
+    "license": "apache-2.0",
+    "params_b": 1.7,
+    "quantizations": null,
+    "memory_min_gb": 4.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:36Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "smollm-360M-instruct-add-basics",
+    "display_name": "smollm 360M instruct add basics",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/smollm-360M-instruct-add-basics",
+    "license": "apache-2.0",
+    "params_b": 0.36,
+    "quantizations": "fp16,int8",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:36Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM2-360M-Instruct-Q8-mlx",
+    "display_name": "SmolLM2 360M Instruct Q8 mlx",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-Q8-mlx",
+    "license": "apache-2.0",
+    "params_b": 0.36,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:36Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "SmolLM2-135M-Instruct-Q8-mlx",
+    "display_name": "SmolLM2 135M Instruct Q8 mlx",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct-Q8-mlx",
+    "license": "apache-2.0",
+    "params_b": 0.135,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:36Z",
+      "org": "HuggingFaceTB"
+    }
+  },
+  {
+    "name": "stablelm-3b-4e1t",
+    "display_name": "stablelm 3b 4e1t",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/stabilityai/stablelm-3b-4e1t",
+    "license": "cc-by-sa-4.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:37Z",
+      "org": "stabilityai"
+    }
+  },
+  {
+    "name": "stablelm-zephyr-3b",
+    "display_name": "stablelm zephyr 3b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/stabilityai/stablelm-zephyr-3b",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:37Z",
+      "org": "stabilityai"
+    }
+  },
+  {
+    "name": "stable-code-3b",
+    "display_name": "stable code 3b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/stabilityai/stable-code-3b",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": "gguf,q5_k_m,q6_k",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:37Z",
+      "org": "stabilityai"
+    }
+  },
+  {
+    "name": "stablelm-tuned-alpha-3b",
+    "display_name": "stablelm tuned alpha 3b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/stabilityai/stablelm-tuned-alpha-3b",
+    "license": "cc-by-nc-sa-4.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:37Z",
+      "org": "stabilityai"
+    }
+  },
+  {
+    "name": "stablelm-base-alpha-3b",
+    "display_name": "stablelm base alpha 3b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/stabilityai/stablelm-base-alpha-3b",
+    "license": "cc-by-sa-4.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:37Z",
+      "org": "stabilityai"
+    }
+  },
+  {
+    "name": "stable-code-instruct-3b",
+    "display_name": "stable code instruct 3b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/stabilityai/stable-code-instruct-3b",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": "gguf,q4_k_m,q5_k_m",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:37Z",
+      "org": "stabilityai"
+    }
+  },
+  {
+    "name": "stablecode-completion-alpha-3b-4k",
+    "display_name": "stablecode completion alpha 3b 4k",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/stabilityai/stablecode-completion-alpha-3b-4k",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:38Z",
+      "org": "stabilityai"
+    }
+  },
+  {
+    "name": "japanese-stablelm-3b-4e1t-base",
+    "display_name": "japanese stablelm 3b 4e1t base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/stabilityai/japanese-stablelm-3b-4e1t-base",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:38Z",
+      "org": "stabilityai"
+    }
+  },
+  {
+    "name": "japanese-stablelm-3b-4e1t-instruct",
+    "display_name": "japanese stablelm 3b 4e1t instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/stabilityai/japanese-stablelm-3b-4e1t-instruct",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:38Z",
+      "org": "stabilityai"
+    }
+  },
+  {
+    "name": "stablelm-base-alpha-3b-v2",
+    "display_name": "stablelm base alpha 3b v2",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/stabilityai/stablelm-base-alpha-3b-v2",
+    "license": "cc-by-sa-4.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:38Z",
+      "org": "stabilityai"
+    }
+  },
+  {
+    "name": "stablecode-completion-alpha-3b",
+    "display_name": "stablecode completion alpha 3b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/stabilityai/stablecode-completion-alpha-3b",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:38Z",
+      "org": "stabilityai"
+    }
+  },
+  {
+    "name": "stablecode-instruct-alpha-3b",
+    "display_name": "stablecode instruct alpha 3b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/stabilityai/stablecode-instruct-alpha-3b",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:38Z",
+      "org": "stabilityai"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-Chat-v1.0",
+    "display_name": "TinyLlama 1.1B Chat v1.0",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": null,
+    "memory_min_gb": 2.6,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:39Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-intermediate-step-1431k-3T",
+    "display_name": "TinyLlama 1.1B intermediate step 1431k 3T",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": null,
+    "memory_min_gb": 2.6,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:39Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-step-50K-105b",
+    "display_name": "TinyLlama 1.1B step 50K 105b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-step-50K-105b",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": null,
+    "memory_min_gb": 2.6,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:39Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-Chat-v0.4",
+    "display_name": "TinyLlama 1.1B Chat v0.4",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v0.4",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": null,
+    "memory_min_gb": 2.6,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:39Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-Chat-v0.6",
+    "display_name": "TinyLlama 1.1B Chat v0.6",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v0.6",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": "gguf",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:39Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-Chat-v0.3",
+    "display_name": "TinyLlama 1.1B Chat v0.3",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v0.3",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": null,
+    "memory_min_gb": 2.6,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:39Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-intermediate-step-955k-token-2T",
+    "display_name": "TinyLlama 1.1B intermediate step 955k token 2T",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-intermediate-step-955k-token-2T",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": null,
+    "memory_min_gb": 2.6,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:39Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-intermediate-step-1195k-token-2.5T",
+    "display_name": "TinyLlama 1.1B intermediate step 1195k token 2.5T",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-intermediate-step-1195k-token-2.5T",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": null,
+    "memory_min_gb": 2.6,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:39Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-Chat-v0.1",
+    "display_name": "TinyLlama 1.1B Chat v0.1",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v0.1",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": null,
+    "memory_min_gb": 2.6,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:40Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-python-v0.1",
+    "display_name": "TinyLlama 1.1B python v0.1",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-python-v0.1",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": "gguf",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:40Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-intermediate-step-240k-503b",
+    "display_name": "TinyLlama 1.1B intermediate step 240k 503b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-intermediate-step-240k-503b",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": null,
+    "memory_min_gb": 2.6,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:40Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-Chat-v0.2",
+    "display_name": "TinyLlama 1.1B Chat v0.2",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v0.2",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": null,
+    "memory_min_gb": 2.6,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:40Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-intermediate-step-480k-1T",
+    "display_name": "TinyLlama 1.1B intermediate step 480k 1T",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-intermediate-step-480k-1T",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": null,
+    "memory_min_gb": 2.6,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:40Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-intermediate-step-715k-1.5T",
+    "display_name": "TinyLlama 1.1B intermediate step 715k 1.5T",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-intermediate-step-715k-1.5T",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": null,
+    "memory_min_gb": 2.6,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:40Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "TinyLlama-1.1B-Chat-v0.5",
+    "display_name": "TinyLlama 1.1B Chat v0.5",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v0.5",
+    "license": "apache-2.0",
+    "params_b": 1.1,
+    "quantizations": null,
+    "memory_min_gb": 2.6,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:41Z",
+      "org": "TinyLlama"
+    }
+  },
+  {
+    "name": "Falcon-H1-0.5B-Base",
+    "display_name": "Falcon H1 0.5B Base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-0.5B-Base",
+    "license": "other",
+    "params_b": 0.5,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:43Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon3-1B-Instruct",
+    "display_name": "Falcon3 1B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon3-1B-Instruct",
+    "license": "other",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:44Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon3-3B-Instruct",
+    "display_name": "Falcon3 3B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon3-3B-Instruct",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:44Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-0.5B-Instruct",
+    "display_name": "Falcon H1 0.5B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-0.5B-Instruct",
+    "license": "other",
+    "params_b": 0.5,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:44Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "falcon-rw-1b",
+    "display_name": "falcon rw 1b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/falcon-rw-1b",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:44Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon3-1B-Base",
+    "display_name": "Falcon3 1B Base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon3-1B-Base",
+    "license": "other",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:44Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon3-3B-Base",
+    "display_name": "Falcon3 3B Base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon3-3B-Base",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:44Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-1.5B-Instruct-GGUF",
+    "display_name": "Falcon H1 1.5B Instruct GGUF",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-1.5B-Instruct-GGUF",
+    "license": "other",
+    "params_b": 1.5,
+    "quantizations": "bf16,gguf,q2_k,q2_k_s,q3_k,q3_k_l,q3_k_m,q3_k_s,q4_k,q4_k_m,q4_k_s,q5_k,q5_k_m,q5_k_s,q6_k",
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:44Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-3B-Base",
+    "display_name": "Falcon H1 3B Base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-3B-Base",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:44Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-1.5B-Instruct",
+    "display_name": "Falcon H1 1.5B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-1.5B-Instruct",
+    "license": "other",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:44Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-3B-Instruct",
+    "display_name": "Falcon H1 3B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-3B-Instruct",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:45Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-1.5B-Base",
+    "display_name": "Falcon H1 1.5B Base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-1.5B-Base",
+    "license": "other",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:45Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-1.5B-Deep-Instruct",
+    "display_name": "Falcon H1 1.5B Deep Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-1.5B-Deep-Instruct",
+    "license": "other",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:45Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-1.5B-Deep-Base",
+    "display_name": "Falcon H1 1.5B Deep Base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-1.5B-Deep-Base",
+    "license": "other",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:45Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-E-1B-Base",
+    "display_name": "Falcon E 1B Base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-E-1B-Base",
+    "license": "other",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:45Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-E-1B-Instruct",
+    "display_name": "Falcon E 1B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-E-1B-Instruct",
+    "license": "other",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:45Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-E-3B-Base",
+    "display_name": "Falcon E 3B Base",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-E-3B-Base",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:45Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-E-3B-Instruct",
+    "display_name": "Falcon E 3B Instruct",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-E-3B-Instruct",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:45Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon3-1B-Instruct-1.58bit",
+    "display_name": "Falcon3 1B Instruct 1.58bit",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon3-1B-Instruct-1.58bit",
+    "license": "other",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:45Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-3B-Instruct-GPTQ-Int4",
+    "display_name": "Falcon H1 3B Instruct GPTQ Int4",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-3B-Instruct-GPTQ-Int4",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:46Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-1.5B-Deep-Instruct-GPTQ-Int4",
+    "display_name": "Falcon H1 1.5B Deep Instruct GPTQ Int4",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-1.5B-Deep-Instruct-GPTQ-Int4",
+    "license": "other",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:46Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon3-3B-Instruct-1.58bit",
+    "display_name": "Falcon3 3B Instruct 1.58bit",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon3-3B-Instruct-1.58bit",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:46Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-0.5B-Instruct-GPTQ-Int4",
+    "display_name": "Falcon H1 0.5B Instruct GPTQ Int4",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-0.5B-Instruct-GPTQ-Int4",
+    "license": "other",
+    "params_b": 0.5,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:46Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-0.5B-Instruct-GPTQ-Int8",
+    "display_name": "Falcon H1 0.5B Instruct GPTQ Int8",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-0.5B-Instruct-GPTQ-Int8",
+    "license": "other",
+    "params_b": 0.5,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:46Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-1.5B-Instruct-GPTQ-Int8",
+    "display_name": "Falcon H1 1.5B Instruct GPTQ Int8",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-1.5B-Instruct-GPTQ-Int8",
+    "license": "other",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:46Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-3B-Instruct-GPTQ-Int8",
+    "display_name": "Falcon H1 3B Instruct GPTQ Int8",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-3B-Instruct-GPTQ-Int8",
+    "license": "other",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:46Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-1.5B-Instruct-GPTQ-Int4",
+    "display_name": "Falcon H1 1.5B Instruct GPTQ Int4",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-1.5B-Instruct-GPTQ-Int4",
+    "license": "other",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:46Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "Falcon-H1-1.5B-Deep-Instruct-GPTQ-Int8",
+    "display_name": "Falcon H1 1.5B Deep Instruct GPTQ Int8",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/tiiuae/Falcon-H1-1.5B-Deep-Instruct-GPTQ-Int8",
+    "license": "other",
+    "params_b": 1.5,
+    "quantizations": null,
+    "memory_min_gb": 3.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:47Z",
+      "org": "tiiuae"
+    }
+  },
+  {
+    "name": "pythia-70m-deduped",
+    "display_name": "pythia 70m deduped",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-70m-deduped",
+    "license": "apache-2.0",
+    "params_b": 0.07,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:47Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-160m",
+    "display_name": "pythia 160m",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-160m",
+    "license": "apache-2.0",
+    "params_b": 0.16,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:47Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-410m",
+    "display_name": "pythia 410m",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-410m",
+    "license": "apache-2.0",
+    "params_b": 0.41,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:47Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-160m-deduped",
+    "display_name": "pythia 160m deduped",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-160m-deduped",
+    "license": "apache-2.0",
+    "params_b": 0.16,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:47Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "gpt-neo-125m",
+    "display_name": "gpt neo 125m",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/gpt-neo-125m",
+    "license": "mit",
+    "params_b": 0.125,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:47Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-1.4b",
+    "display_name": "pythia 1.4b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-1.4b",
+    "license": "apache-2.0",
+    "params_b": 1.4,
+    "quantizations": null,
+    "memory_min_gb": 3.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:48Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "gpt-neo-1.3B",
+    "display_name": "gpt neo 1.3B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/gpt-neo-1.3B",
+    "license": "mit",
+    "params_b": 1.3,
+    "quantizations": null,
+    "memory_min_gb": 3.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:48Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-1b",
+    "display_name": "pythia 1b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-1b",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:48Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "gpt-neo-2.7B",
+    "display_name": "gpt neo 2.7B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/gpt-neo-2.7B",
+    "license": "mit",
+    "params_b": 2.7,
+    "quantizations": null,
+    "memory_min_gb": 6.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:48Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "polyglot-ko-1.3b",
+    "display_name": "polyglot ko 1.3b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/polyglot-ko-1.3b",
+    "license": "apache-2.0",
+    "params_b": 1.3,
+    "quantizations": null,
+    "memory_min_gb": 3.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:48Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-2.8b",
+    "display_name": "pythia 2.8b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-2.8b",
+    "license": "apache-2.0",
+    "params_b": 2.8,
+    "quantizations": null,
+    "memory_min_gb": 6.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:48Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-410m-deduped",
+    "display_name": "pythia 410m deduped",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-410m-deduped",
+    "license": "apache-2.0",
+    "params_b": 0.41,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:48Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-1.4b-deduped",
+    "display_name": "pythia 1.4b deduped",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-1.4b-deduped",
+    "license": "apache-2.0",
+    "params_b": 1.4,
+    "quantizations": null,
+    "memory_min_gb": 3.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:48Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-1b-deduped",
+    "display_name": "pythia 1b deduped",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-1b-deduped",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:48Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-2.8b-deduped",
+    "display_name": "pythia 2.8b deduped",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-2.8b-deduped",
+    "license": "apache-2.0",
+    "params_b": 2.8,
+    "quantizations": null,
+    "memory_min_gb": 6.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:49Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-1b-v0",
+    "display_name": "pythia 1b v0",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-1b-v0",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:49Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-160m-v0",
+    "display_name": "pythia 160m v0",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-160m-v0",
+    "license": "apache-2.0",
+    "params_b": 0.16,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:49Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-410m-v0",
+    "display_name": "pythia 410m v0",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-410m-v0",
+    "license": "apache-2.0",
+    "params_b": 0.41,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:49Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "polyglot-ko-3.8b",
+    "display_name": "polyglot ko 3.8b",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/polyglot-ko-3.8b",
+    "license": "apache-2.0",
+    "params_b": 3.8,
+    "quantizations": null,
+    "memory_min_gb": 8.8,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:49Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-160m-deduped-v0",
+    "display_name": "pythia 160m deduped v0",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-160m-deduped-v0",
+    "license": "apache-2.0",
+    "params_b": 0.16,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:49Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-410m-deduped-v0",
+    "display_name": "pythia 410m deduped v0",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-410m-deduped-v0",
+    "license": "apache-2.0",
+    "params_b": 0.41,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:50Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-70m-deduped-v0",
+    "display_name": "pythia 70m deduped v0",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-70m-deduped-v0",
+    "license": "apache-2.0",
+    "params_b": 0.07,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:50Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-1b-deduped-v0",
+    "display_name": "pythia 1b deduped v0",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-1b-deduped-v0",
+    "license": "apache-2.0",
+    "params_b": 1.0,
+    "quantizations": null,
+    "memory_min_gb": 2.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:50Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-1.4b-v0",
+    "display_name": "pythia 1.4b v0",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-1.4b-v0",
+    "license": "apache-2.0",
+    "params_b": 1.4,
+    "quantizations": null,
+    "memory_min_gb": 3.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:50Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-2.8b-v0",
+    "display_name": "pythia 2.8b v0",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-2.8b-v0",
+    "license": "apache-2.0",
+    "params_b": 2.8,
+    "quantizations": null,
+    "memory_min_gb": 6.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:50Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-1.4b-deduped-v0",
+    "display_name": "pythia 1.4b deduped v0",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-1.4b-deduped-v0",
+    "license": "apache-2.0",
+    "params_b": 1.4,
+    "quantizations": null,
+    "memory_min_gb": 3.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:50Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-70m-v0",
+    "display_name": "pythia 70m v0",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-70m-v0",
+    "license": "apache-2.0",
+    "params_b": 0.07,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:50Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-2.8b-deduped-v0",
+    "display_name": "pythia 2.8b deduped v0",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-2.8b-deduped-v0",
+    "license": "apache-2.0",
+    "params_b": 2.8,
+    "quantizations": null,
+    "memory_min_gb": 6.5,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:50Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "Hermes-RWKV-v4-3B",
+    "display_name": "Hermes RWKV v4 3B",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/Hermes-RWKV-v4-3B",
+    "license": "apache-2.0",
+    "params_b": 3.0,
+    "quantizations": null,
+    "memory_min_gb": 7.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:51Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-intervention-410m-deduped",
+    "display_name": "pythia intervention 410m deduped",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-intervention-410m-deduped",
+    "license": "apache-2.0",
+    "params_b": 0.41,
+    "quantizations": null,
+    "memory_min_gb": 2.0,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:54Z",
+      "org": "EleutherAI"
+    }
+  },
+  {
+    "name": "pythia-intervention-1.4b-deduped",
+    "display_name": "pythia intervention 1.4b deduped",
+    "source_provider": "huggingface",
+    "repo_url": "https://huggingface.co/EleutherAI/pythia-intervention-1.4b-deduped",
+    "license": "apache-2.0",
+    "params_b": 1.4,
+    "quantizations": null,
+    "memory_min_gb": 3.3,
+    "context_max": null,
+    "artifacts": [],
+    "benchmarks": {},
+    "provenance": {
+      "from": "hf_card+readme",
+      "captured_at": "2025-10-04T03:12:56Z",
+      "org": "EleutherAI"
+    }
+  }
+]
